@@ -452,8 +452,8 @@ img {
     color: #ffffff;
 }
 
-placeholder {
-    color: #ffffff;
+.email-form::placeholder {
+    color: #fff; 
 }
 
 .btn-form {
